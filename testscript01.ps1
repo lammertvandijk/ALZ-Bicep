@@ -1,0 +1,1 @@
+Write-Output "Hello, this is a test script executed by Update Management"
